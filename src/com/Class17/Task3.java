@@ -15,7 +15,7 @@ public class Task3 {
 	    
 	    public static void main(String[] args) {
 	        Task3 a=new Task3();
-	        a.palindrome("muooum");
+	        a.palindrome("muooum"); // Begining ending same
 	    
 }
 }
