@@ -21,6 +21,10 @@ System.out.println();
 	System.out.println("--------------    ----------------");
 	String  str2= "Monday clubday";
 	System.out.println(str2.substring(2,8));
+	// 
+	String m="Muhammad";
+	System.out.println(m.indexOf("m"));
+	
 	}
 	
 
